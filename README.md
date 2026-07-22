@@ -1,4 +1,4 @@
-    # BNB Smart Chain White Paper
+        # BNB Smart Chain White Paper
     It sounds like you want to withdraw funds from the Binance Smart Chain (BSC) to your bank account. There isn’t a single “code” you can enter to do this, as blockchains and banks don’t connect directly. Instead, you need to:
 
     Use a Wallet
