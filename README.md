@@ -1,15 +1,15 @@
-# BNB Smart Chain White Paper
-It sounds like you want to withdraw funds from the Binance Smart Chain (BSC) to your bank account. There isn’t a single “code” you can enter to do this, as blockchains and banks don’t connect directly. Instead, you need to:
+    # BNB Smart Chain White Paper
+    It sounds like you want to withdraw funds from the Binance Smart Chain (BSC) to your bank account. There isn’t a single “code” you can enter to do this, as blockchains and banks don’t connect directly. Instead, you need to:
 
-Use a Wallet
-Use a BSC-compatible wallet like MetaMask or Trust Wallet.
-Make sure your BNB or tokens are in your wallet.
-Send to an Exchange
-Transfer your tokens from your wallet to a crypto exchange that supports BNB Smart Chain (like Binance, KuCoin, or Crypto.com).
-On the exchange, make sure to deposit using the BEP20 (BSC) network address provided.
-Convert to Fiat
-Once your funds arrive on the exchange, sell your crypto for your local currency (USD).
-Withdraw to Bank
+    Use a Wallet
+    Use a BSC-compatible wallet like MetaMask or Trust Wallet.
+    Make sure your BNB or tokens are in your wallet.
+    Send to an Exchange
+    Transfer your tokens from your wallet to a crypto exchange that supports BNB Smart Chain (like Binance, KuCoin, or Crypto.com).
+    On the exchange, make sure to deposit using the BEP20 (BSC) network address provided.
+    Convert to Fiat
+    Once your funds arrive on the exchange, sell your crypto for your local currency ((USD).
+    Withdraw to Bank
 Link your bank account on the exchange.
 Withdraw your fiat funds to your bank.
 
