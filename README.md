@@ -10,22 +10,22 @@
     Convert to Fiat
     Once your funds arrive on the exchange, sell your crypto for your local currency ((USD).
     Withdraw to Bank
-Link your bank account on the exchange.
-Withdraw your fiat funds to your bank.
+    Link your bank account on the exchange.
+    Withdraw your fiat funds to your bank.
+    
+    Example Steps (Binance):
+    Log in to Binance and go to Wallet > Deposit > Crypto.
+    Select BNB and choose the BEP20 network.
+    Copy the wallet address.
+    In your MetaMask wallet, send BNB to that address.
+    Once received, go to Trade > Convert BNB to USD.
+    Withdraw USD to your linked bank account.
 
-Example Steps (Binance):
-Log in to Binance and go to Wallet > Deposit > Crypto.
-Select BNB and choose the BEP20 network.
-Copy the wallet address.
-In your MetaMask wallet, send BNB to that address.
-Once received, go to Trade > Convert BNB to USD.
-Withdraw USD to your linked bank account.
+    There is no special blockchain “code” to withdraw funds to a bank. You always need to go through a wallet and an exchange for the conversion and withdrawal.
+    
+    ## Revision
 
-There is no special blockchain “code” to withdraw funds to a bank. You always need to go through a wallet and an exchange for the conversion and withdrawal.
-
-## Revision
-
-* Version 0.1, 2020/04/17, initial publish.
-* Version 0.1, 2020/05/25, add Chinese version translated by community members.
-* Version 0.1, 2020/11/10, add Filipino version translated by @ricoz
-* Version 0.2, 2024/8/7, revise the whitepaper after BC fusion
+    * Version 0.1, 2020/04/17, initial publish.
+    * Version 0.1, 2020/05/25, add Chinese version translated by community members.
+    * Version 0.1, 2020/11/10, add Filipino version translated by @ricoz
+    * Version 0.2, 2024/8/7, revise the whitepaper after BC fusion
